@@ -1,4 +1,4 @@
-# Simple Calculator
+# [Simple Calculator](https://npm-phoenix.github.io/calculator/index.html)
 
 A simple calculator built using HTML, CSS, and JavaScript.  This project is a great way to practice web development skills.
 
