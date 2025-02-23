@@ -15,3 +15,5 @@ A simple calculator built using HTML, CSS, and JavaScript.  This project is a gr
 *   **Error Handling:**
 
     *   Displays "Error" if an invalid operation is attempted.
+ 
+
