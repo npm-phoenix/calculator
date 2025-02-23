@@ -2,7 +2,7 @@
 Creating a simple calculator using HTML, CSS, and JavaScript is a great way to practice your web development skills. 
 
 
-**#Features of the Calculator**
+**#000000 Features of the Calculator**
 **Basic Operations:** 
 Supports addition, subtraction, multiplication, and division.
 
