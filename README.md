@@ -3,12 +3,12 @@ Creating a simple calculator using HTML, CSS, and JavaScript is a great way to p
 
 
 Features of the Calculator
-  1.Basic Operations: 
+  -Basic Operations: 
     Supports addition, subtraction, multiplication, and division.
 
-  1.Clear Functionality:
+  -Clear Functionality:
     The "C" button clears the current input.
 
-  1.Error Handling:
+  -Error Handling:
     Displays "Error" if an invalid operation is attempted.
 
