@@ -1,14 +1,17 @@
-# calculator
-Creating a simple calculator using HTML, CSS, and JavaScript is a great way to practice your web development skills. 
+# Simple Calculator
 
+A simple calculator built using HTML, CSS, and JavaScript.  This project is a great way to practice web development skills.
 
-Features of the Calculator
-  -Basic Operations: 
-    Supports addition, subtraction, multiplication, and division.
+## Features of the Calculator:
 
-  -Clear Functionality:
-    The "C" button clears the current input.
+*   **Basic Operations:**
 
-  -Error Handling:
-    Displays "Error" if an invalid operation is attempted.
+    *   Supports addition, subtraction, multiplication, and division.
 
+*   **Clear Functionality:**
+
+    *   The "C" button clears the current input.
+
+*   **Error Handling:**
+
+    *   Displays "Error" if an invalid operation is attempted.
